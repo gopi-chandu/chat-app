@@ -3,4 +3,4 @@
 
 # Demo
 >
-![image](https://github.com/gopi-chandu/stack-infinity/blob/master/pics/demo.jpg)
+![image](https://github.com/gopi-chandu/chat-app/blob/master/demo/chatapp.PNG)
